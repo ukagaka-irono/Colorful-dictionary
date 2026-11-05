@@ -1,0 +1,3 @@
+/naist-jdic/
+*.dic
+__pycache__/
