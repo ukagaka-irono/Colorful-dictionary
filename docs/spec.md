@@ -25,7 +25,7 @@ ColorfulYomi やエンジン本体は MIT のままです。
 | [NOTICE](../NOTICE) | 元データの著作権表示とライセンス |
 | [tools/build_dic.py](../tools/build_dic.py) | 元データから辞書を作るツール（Python 3、標準ライブラリのみ） |
 
-辞書ファイルはリポジトリには入れず、GitHub のリリースに添付します。
+辞書ファイルはリポジトリには入れず、GitHub の[リリース](https://github.com/ukagaka-irono/Colorful-dictionary/releases/tag/v1)に添付します（版 1 の SHA-256: `9926d6cbfba5d3efb0208853033ccc05d5b9c87fb8ef9b11e43c93e972ee724d`）。
 
 ## 辞書の作り方
 
